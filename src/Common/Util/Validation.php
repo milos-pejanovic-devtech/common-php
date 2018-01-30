@@ -8,7 +8,7 @@
  */
 namespace Common\Util;
 
-use Doctrine\Instantiator\Exception\InvalidArgumentException;
+use \InvalidArgumentException;
 
 class Validation {
 
